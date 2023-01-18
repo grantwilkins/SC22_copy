@@ -1,0 +1,6 @@
+[submodule "veloc_compression"]
+	path = veloc_compression
+	url = git@github.com:mikail-g/veloc_compression.git
+[submodule "genericio"]
+	path = genericio
+	url = https://git.cels.anl.gov/hacc/genericio.git
